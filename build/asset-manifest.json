@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/gamedashboardreact/static/css/main.dcf13d72.chunk.css",
+    "main.js": "/gamedashboardreact/static/js/main.16f33e20.chunk.js",
+    "main.js.map": "/gamedashboardreact/static/js/main.16f33e20.chunk.js.map",
+    "runtime-main.js": "/gamedashboardreact/static/js/runtime-main.f1e93251.js",
+    "runtime-main.js.map": "/gamedashboardreact/static/js/runtime-main.f1e93251.js.map",
+    "static/js/2.5c43cc6f.chunk.js": "/gamedashboardreact/static/js/2.5c43cc6f.chunk.js",
+    "static/js/2.5c43cc6f.chunk.js.map": "/gamedashboardreact/static/js/2.5c43cc6f.chunk.js.map",
+    "index.html": "/gamedashboardreact/index.html",
+    "precache-manifest.a63d22f34013f5d680aa0ffe2d03f486.js": "/gamedashboardreact/precache-manifest.a63d22f34013f5d680aa0ffe2d03f486.js",
+    "service-worker.js": "/gamedashboardreact/service-worker.js",
+    "static/css/main.dcf13d72.chunk.css.map": "/gamedashboardreact/static/css/main.dcf13d72.chunk.css.map",
+    "static/media/aim.png": "/gamedashboardreact/static/media/aim.d43e9094.png",
+    "static/media/battle-icon-10.jpg": "/gamedashboardreact/static/media/battle-icon-10.90381860.jpg",
+    "static/media/java.svg": "/gamedashboardreact/static/media/java.5e209c7b.svg",
+    "static/media/javascript.svg": "/gamedashboardreact/static/media/javascript.eded77eb.svg",
+    "static/media/kill.jpg": "/gamedashboardreact/static/media/kill.87d703f4.jpg",
+    "static/media/pdark.ttf": "/gamedashboardreact/static/media/pdark.3a90e6c5.ttf",
+    "static/media/python.svg": "/gamedashboardreact/static/media/python.5e9d27ec.svg",
+    "static/media/react.svg": "/gamedashboardreact/static/media/react.4181e99a.svg",
+    "static/media/shield.png": "/gamedashboardreact/static/media/shield.2884ede4.png"
+  }
+}
